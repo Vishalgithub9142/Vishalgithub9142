@@ -1,13 +1,12 @@
 # Hi there, I'm Vishal Kumar 👋
 
-I am a Computer Science & Artificial Intelligence student passionate about solving real-world problems through technology and entrepreneurship. Based in Jamui, Bihar, I am constantly exploring the intersections of Machine Learning, Full-Stack Development, and hardware integration.
+I am a Computer Science & Artificial Intelligence student passionate about solving real-world problems through technology and entrepreneurship.I am constantly exploring the intersections of Machine Learning, Full-Stack Development, and hardware integration.
 
 ## 🚀 About Me
 
 * I am currently pursuing my B.Tech in Computer Science & Artificial Intelligence at Motihari College Of Engineering.
 * I am actively building out tech startup concepts, including **ScentX** (a smart, automated IoT perfume vending booth) and **Hygge** (an AI-augmented digital wellness platform).
-* I have a strong foundation in Data Structures and Algorithms using C++, maintaining a consistent daily streak on LeetCode with over 100 problems solved.
-* Previously, I led a team at Robolution to build a smartphone-controllable robotic car.
+* I have a strong foundation in Data Structures and Algorithms using C++, maintaining a consistent daily streak on LeetCode.
 * I completed an AI/ML internship at Interns Elite Pvt. Ltd., where I gained hands-on experience in building and training machine learning models.
 
 ---
