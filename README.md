@@ -7,14 +7,14 @@
   <a href="https://leetcode.com/u/VishalKrrao/"><img src="https://img.shields.io/badge/LeetCode-VishalKrrao-1E40AF?style=flat-square&logo=leetcode&logoColor=white"></a>
 </p>
 
-I'm a Computer Science & AI undergraduate who ships full-stack products end-to-end — from GenAI-powered backends to production-ready frontends — while staying sharp on DSA through daily practice in C++.
+I'm a Computer Science & AI undergraduate who ships full-stack products end-to-end — from GenAI-powered backends to edge computer vision systems — while staying sharp on DSA through daily practice in C++.
 
 ---
 
 ### 🔭 What I'm building
 
+- **[Nagar Drishti](https://github.com/Vishalgithub9142/Nagar-Drishti)** — an edge AI & spatial GIS infrastructure monitoring system. Fine-tuned **YOLOv8/v10** pipeline achieving 91.2% precision and 93.4% mAP@50 at 20.1 FPS for automated road defect detection, with ByteTrack multi-object tracking, EasyOCR license plate recognition, and a DBSCAN clustering engine that cut duplicate-alert volume by 60%.
 - **[Vectora AI](https://github.com/Vishalgithub9142/VECTORA-AI)** — a GenAI resume & interview assistant. Full-stack MERN app integrated with **Gemini 2.5 Flash** (structured JSON schemas) to score resume-job fit, generate interview prep plans, and auto-tailor ATS-friendly resume PDFs via Puppeteer.
-- **[FoxTrendX](https://foxtendx.vercel.app/)** — a live tech-news and AI-analysis platform built with **Next.js**, with Cloudinary-optimized media and full SEO/Open Graph implementation.
 - **ScentX** — an early-stage concept for a smart, IoT-driven automated perfume vending booth.
 - **Hygge** — an early-stage concept for an AI-augmented digital wellness platform.
 
@@ -25,7 +25,7 @@ Built a real-time drowsiness detection system using computer vision and deep lea
 
 ### 🧠 DSA & Problem Solving
 
-Consistent daily solver on **LeetCode** and **GeeksforGeeks**, building algorithmic fluency in C++ — the same discipline I bring to writing clean, efficient production code.
+Consistent problem solver on **LeetCode** and **GeeksforGeeks**, building algorithmic fluency in C++ — the same discipline I bring to writing clean, efficient production code.
 
 ---
 
@@ -41,10 +41,12 @@ Consistent daily solver on **LeetCode** and **GeeksforGeeks**, building algorith
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**ML / AI**
+**ML / AI / Computer Vision**
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
