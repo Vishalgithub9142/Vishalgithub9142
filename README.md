@@ -1,52 +1,70 @@
-# Hi there, I'm Vishal Kumar 👋
+<h1 align="center">Hi, I'm Vishal Kumar 👋</h1>
+<h3 align="center">Full-Stack Developer · DSA & AI Systems</h3>
 
-I am a Computer Science & Artificial Intelligence student passionate about solving real-world problems through technology and entrepreneurship.I am constantly exploring the intersections of Machine Learning, Full-Stack Development, and hardware integration.
+<p align="center">
+  <a href="mailto:official.vishalkrrao@gmail.com"><img src="https://img.shields.io/badge/Email-official.vishalkrrao%40gmail.com-1E40AF?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/vishal-kumar-ai"><img src="https://img.shields.io/badge/LinkedIn-VishalLinkedIn-1E40AF?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://leetcode.com/u/VishalKrrao/"><img src="https://img.shields.io/badge/LeetCode-VishalKrrao-1E40AF?style=flat-square&logo=leetcode&logoColor=white"></a>
+</p>
 
-## 🚀 About Me
-
-* I am currently pursuing my B.Tech in Computer Science & Artificial Intelligence at Motihari College Of Engineering.
-* I am actively building out tech startup concepts, including **ScentX** (a smart, automated IoT perfume vending booth) and **Hygge** (an AI-augmented digital wellness platform).
-* I have a strong foundation in Data Structures and Algorithms using C++, maintaining a consistent daily streak on LeetCode.
-* I completed an AI/ML internship at Interns Elite Pvt. Ltd., where I gained hands-on experience in building and training machine learning models.
-
----
-
-## 💻 Tech Stack
-
-* **Languages:** C++, Python, JavaScript
-* **Web & Backend:** ReactJS, HTML, CSS, Node.js, Express, FastAPI
-* **Machine Learning:** Supervised Learning, Unsupervised Learning, Reinforcement Learning, NumPy, Pandas, Scikit-learn
-* **Databases:** MongoDB, MySQL
-* **Tools:** VS Code, Jupyter Notebook, Google Colab
+I'm a Computer Science & AI undergraduate who ships full-stack products end-to-end — from GenAI-powered backends to production-ready frontends — while staying sharp on DSA through daily practice in C++.
 
 ---
 
-## 🎓 Education & Certifications
+### 🔭 What I'm building
 
-* **B.Tech in Computer Science & Artificial Intelligence** | Motihari College Of Engineering
-  * *CGPA: 8.07*
-* **Diploma in Mechanical Engineering** | Government Polytechnic Banka
-  * *CGPA: 8.72*
-* **Certification:** The Joy of Computing using Python - NPTEL
+- **[Vectora AI](https://github.com/Vishalgithub9142/VECTORA-AI)** — a GenAI resume & interview assistant. Full-stack MERN app integrated with **Gemini 2.5 Flash** (structured JSON schemas) to score resume-job fit, generate interview prep plans, and auto-tailor ATS-friendly resume PDFs via Puppeteer.
+- **[FoxTrendX](https://foxtendx.vercel.app/)** — a live tech-news and AI-analysis platform built with **Next.js**, with Cloudinary-optimized media and full SEO/Open Graph implementation.
+- **ScentX** — an early-stage concept for a smart, IoT-driven automated perfume vending booth.
+- **Hygge** — an early-stage concept for an AI-augmented digital wellness platform.
+
+### 💼 Experience
+
+**AI Intern — Ellovo Technology India Pvt. Ltd.** *(Mar 2026 – Jun 2026, Virtual)*
+Built a real-time drowsiness detection system using computer vision and deep learning; optimized visual data pipelines and improved model accuracy in a production-style workflow.
+
+### 🧠 DSA & Problem Solving
+
+Consistent daily solver on **LeetCode** and **GeeksforGeeks**, building algorithmic fluency in C++ — the same discipline I bring to writing clean, efficient production code.
 
 ---
 
-## 📫 Let's Connect!
+### 🛠️ Tech Stack
 
-* **Email:** official.vishalkrrao@gamil.com
-* **GitHub & LinkedIn:** Always open to collaborating on MedTech apps, AI tools, or exciting full-stack projects!
+**Languages**
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<!--
-**Vishalgithub9142/Vishalgithub9142** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web & Backend**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-Here are some ideas to get you started:
+**ML / AI**
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Databases & Tools**
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 🎓 Education
+
+**B.Tech, Computer Science & AI** — Motihari College of Engineering *(2027, CGPA: 8.07)*
+**Diploma, Mechanical Engineering** — Govt. Polytechnic Banka *(2024, CGPA: 8.72)*
+
+**Certifications:** The Joy of Computing using Python · Internet of Things — *NPTEL*
+
+---
+
+### 📫 Let's connect
+
+Open to full-stack, AI/ML, and SDE roles and collaborations. Reach me at **official.vishalkrrao@gmail.com** or on [LinkedIn](https://linkedin.com/in/vishal-kumar-ai).
